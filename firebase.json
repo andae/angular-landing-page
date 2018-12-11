@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/biwabit",
+    "public": "dist/biwabits",
     "rewrites": [
       {
         "source": "**",
