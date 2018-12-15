@@ -1,6 +1,8 @@
 [<img src="https://github.com/biwabit/logos.github.io/blob/master/official-logo-dark.png" width="200" height="56">](https://github.com/biwabit/logos.github.io/issues/5)
 ## Biwabit-Website
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+## Travis Ci
+.travis.yml config update
 
 ## Development server
 
